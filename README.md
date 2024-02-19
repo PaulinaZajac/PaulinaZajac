@@ -4,7 +4,7 @@ I am an aspiring frontend developer with a passion for creating user interfaces 
 
 🤹 Skills
 
-REACT | JAVASCRIPT | HTML5 | CSS3 | GIT | FIGMA | ADOBE PHOTOSHOP
+React | JavaScript | HTML5 | CSS3 | GIT | Figma | Adobe Photoshop
 
 
 
