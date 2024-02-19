@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Paulina.
 
-I am an aspiring frontend developer with a passion for creating user interfaces and user experience. I have finished Frontend Development bootcamp from SDA Academy and trying my best to develop my skills since then. I am creating web applications in React technology. As I am an architect - I am well organized, problem solver and have strong design skills with high attention to details.
+I am an aspiring frontend developer with a passion for creating user interfaces and user experience. I have finished SDA Academy Frontend Development bootcamp and trying my best to develop my skills since then. I am creating web applications in React technology. As I am an architect - I am well organized, problem solver and have strong design skills with high attention to details.
 
 🤹 Skills
 
